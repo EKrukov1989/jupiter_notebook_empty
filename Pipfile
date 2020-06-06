@@ -11,6 +11,9 @@ pylint = "*"
 pycodestyle = "*"
 pydocstyle = "*"
 pytest = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
