@@ -1,0 +1,8 @@
+# ignore py-cache
+__pycache__/
+
+# ignore test cache
+.pytest_cache/
+
+# ignore jupyter notebook cache
+.ipynb_checkpoints/
